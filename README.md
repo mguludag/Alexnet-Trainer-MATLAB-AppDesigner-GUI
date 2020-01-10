@@ -12,7 +12,7 @@ AlexNet is a convolutional neural network that is trained on more than a million
 ## How to use?
 * First resize the images to 227x227
 * Don't mix different class images in same folder
-* Arrange resized images in seperate folders and carefully set each folder's name because code will use foldernames for training *(example: cat pictures in cat folder)
+* Arrange resized images in seperate folders and carefully set each folder's name because code will use foldernames for training *(example: cat pictures in cat folder)*
 * Train the alexnet
 * Load your created dataset and test the network
 
