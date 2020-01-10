@@ -18,21 +18,21 @@ AlexNet is a convolutional neural network that is trained on more than a million
 
 <p align="center">
 
-  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/1.png?raw=true">
+  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/1.png?raw=true"><br>
   resize images screen
 
 </p>
 
 <p align="center">
 
-  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/2.png?raw=true">
+  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/2.png?raw=true"><br>
   train alexnet screen
 
 </p>
 
 <p align="center">
 
-  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/image.png?raw=true">
+  <img src="https://github.com/mguludag/Alexnet-Trainer-MATLAB-AppDesigner-GUI/blob/master/image.png?raw=true"><br>
   test screen
 
 </p>
